@@ -113,5 +113,5 @@ Scored each customer on Recency (days since last order), Frequency (order count)
 ---
 
 **Author:** Vaibhav Viraj
-**LinkedIn:** [linkedin.com/in/vaibhavviraj](https://linkedin.com/in/vaibhavviraj)
+**LinkedIn:** [Vaibhav Viraj](https://www.linkedin.com/in/vaibhav-v-320bbb170/)
 **GitHub:** [github.com/vaibhavneu](https://github.com/vaibhavneu)
